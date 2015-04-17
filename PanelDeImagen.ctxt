@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PanelDeImagen()
+comment0.text=\r\n\ Crea\ un\ nuevo\ y\ vac\u00EDo\ PanelImagen\r\n
+comment1.params=imagen
+comment1.target=void\ setImagen(ImagenOF)
+comment1.text=\r\n\ Pone\ la\ imagen\ que\ el\ panel\ debe\ mostrar\r\n\ \r\n\ @param\ imagen\ La\ imagen\ a\ ser\ mostrada\r\n
+comment2.params=
+comment2.target=void\ limpiarImagen()
+comment2.text=\r\n\ Limpia\ la\ imagen\ del\ panel\r\n
+comment3.params=
+comment3.target=java.awt.Dimension\ getPreferredSize()
+comment3.text=\r\n\ Indica\ al\ gestor\ de\ dise\u00F1o\ c\u00F3mo\ son\ las\ dimensiones\r\n\ Este\ m\u00E9todo\ es\ llamado\ por\ elgestor\ para\ disponer\ las\ componentes\r\n\ \r\n\ @return\ Las\ dimensiones\ preferidas\ para\ esta\ compoenente\r\n
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment4.text=\r\n\ Esta\ componente\ necesita\ ser\ mostrada\ nuevamente.\ Copia\ la\ imgen\ interna\ a\ la\ pantalla\r\n\ (Este\ m\u00E9todo\ es\ llamado\ cuando\ Swinfg\ pinta\ la\ pantalla\ cada\ vez\ que\ se\ quier\ mostra\ esta\ componente\r\n\ \r\n\ @param\ g\ Es\ el\ contexto\ gr\u00E1fico\ que\ puede\ ser\ usado\ para\ dibujar\ sobre\ esta\ componente\r\n
+numComments=5

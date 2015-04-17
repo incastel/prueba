@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Umbral(java.lang.String)
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\r\n\ Recorre\ todos\ los\ pixeles\ de\ la\ imagen\ \r\n\ y\ los\ que\ est\u00E1n\ por\ debajo\ de\ un\ umbral\ los\ hace\ blancos,\ por\ debajo\ de\ otro\ grises\r\n\ y\ el\ resto\ negros\r\n
+numComments=2

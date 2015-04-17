@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=FiltroOscuro(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FiltroOscuro\r\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\r\n\ Recorre\ todos\ los\ p\u00EDxeles\ de\ la\ im\u00E1gen\ y\ los\ oscurece\ un\ poco.\r\n
+numComments=2

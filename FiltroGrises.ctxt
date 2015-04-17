@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=FiltroGrises(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FiltroOscuro\r\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\r\n\ Recorre\ todos\ los\ pixeles\ de\ la\ imagen\ y\ los\ hace\ todos\ grises\ conservando\ el\ brillo.\r\n\ Cada\ pizel\ toma\ un\ tono\ de\ gris\ asignando\ el\ mismo\ valor\ a\ los\ tres\ componentes.\r\n\ @param\ imagen\ es\ la\ imagen\ sobre\ la\ que\ se\ aplica\ el\ filtro\r\n
+numComments=2

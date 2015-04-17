@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Filtro(java.lang.String)
+comment0.text=\r\n\ Crea\ un\ nuevo\ filtro\ con\ un\ nombre\ determinado.\r\n\ @param\ nombre\ El\ nombre\ del\ filtro.\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment1.text=\r\n\ Devuelve\ el\ nombre\ del\ filtro.\r\n\ @return\ nombre\ El\ nombre\ del\ filtro.\r\n
+comment2.params=imagen
+comment2.target=void\ aplicar(ImagenOF)
+numComments=3

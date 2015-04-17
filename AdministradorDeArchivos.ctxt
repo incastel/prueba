@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImagenOF\ getImagen()
+comment0.text=\r\n\ Abre\ un\ selector\ de\ archivos\ y\ permite\ al\ usuario\ seleccionar\ un\ fichero\ imagen\r\n\ Lee\ el\ fichero\ elegido\ y\ lo\ devuelve\ como\ una\ imagen.\r\n\ Puede\ leer\ ficheros\ en\ formato\ JPG\ y\ PNG.\r\n\ Si\ ocurre\ alg\u00FAn\ problema\ en\ la\ lectura,\ el\ m\u00E9todo\ devuelve\ un\ null\r\n\ \r\n\ @return\ El\ objeto\ imagen,\ o\ null\ si\ ha\ ocurrido\ alg\u00FAn\ problema\r\n
+comment1.params=archivoImagen
+comment1.target=ImagenOF\ cargarImagen(java.io.File)
+comment1.text=\r\n\ Lee\ un\ archivo\ del\ disco\ y\ lo\ devuelve\ como\ un\ BufferedImage.\ \r\n\ Puede\ leer\ ficheros\ en\ formato\ JPG\ y\ PNG.\r\n\ Si\ ocurre\ alg\u00FAn\ problema\ en\ la\ lectura,\ el\ m\u00E9todo\ devuelve\ un\ null\r\n\ \r\n\ @return\ \ El\ objeto\ imagen\ o\ null\ si\ ha\ ocurrido\ alg\u00FAn\ problema\r\n\ @param\ archivoImagen\ \ El\ archivo\ de\ imagen\ a\ ser\ cargado\r\n
+comment2.params=imagen\ archivo
+comment2.target=void\ salvarImagen(ImagenOF,\ java.io.File)
+comment2.text=\r\n\ Escribe\ un\ fichero\ imagen\ en\ el\ disco.\ El\ formato\ con\ el\ que\ escribe\ es\ JPG.\r\n\ En\ caso\ de\ haber\ alg\u00FAn\ problema,\ el\ m\u00E9todo\ no\ devuelve\ nada\r\n\ \r\n\ @param\ imagen\ \ La\ imagen\ a\ ser\ salvada\r\n\ @param\ archivo\ El\ archivo\ que\ se\ guarda\r\n
+numComments=3

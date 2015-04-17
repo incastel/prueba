@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=imagen
+comment0.target=ImagenOF(java.awt.image.BufferedImage)
+comment0.text=\r\n\ Crea\ una\ ImagenOF\ copiada\ desde\ un\ BufferedImage.\r\n\ @param\ imagen\ La\ imagen\ a\ copiar\r\n
+comment1.params=anchura\ altura
+comment1.target=ImagenOF(int,\ int)
+comment1.text=\r\n\ Crea\ una\ imagenOF\ con\ un\ tama\u00F1o\ especificado\ y\ sin\ contenido\ (de\ momento).\r\n\ @param\ anchura\ La\ anchura\ de\ la\ imagen.\r\n\ @param\ altura\ La\ altura\ de\ la\ imagen.\r\n
+comment2.params=x\ y\ color
+comment2.target=void\ setPixel(int,\ int,\ java.awt.Color)
+comment2.text=\r\n\ Pone\ un\ pixel\ de\ la\ imagen\ a\ un\ color\ determinado.\ \r\n\ El\ color\ es\ representado\ por\ un\ valor\ rgb\r\n\ @param\ x\ La\ posici\u00F3n\ x\ del\ pixel\r\n\ @param\ y\ La\ posici\u00F3n\ y\ del\ pixel\r\n\ @param\ color\ El\ color\ del\ pixel.\r\n
+comment3.params=x\ y
+comment3.target=java.awt.Color\ getPixel(int,\ int)
+comment3.text=\r\n\ Devuelve\ el\ color\ de\ un\ pixel\ determinado\ de\ la\ imagen\r\n\ @param\ x\ La\ posici\u00F3n\ x\ del\ pixel\r\n\ @param\ y\ La\ posici\u00F3n\ y\ del\ pixel\r\n\ @return\ El\ color\ del\ pixel\ de\ esa\ posici\u00F3n\r\n
+comment4.params=x\ y
+comment4.target=java.util.ArrayList\ pixelesAlrededor(int,\ int)
+comment4.text=\r\n\ \r\n
+numComments=5

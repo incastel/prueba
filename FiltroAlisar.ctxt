@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=FiltroAlisar(java.lang.String)
+comment0.text=\r\n\ Constructor\ \r\n
+comment1.params=imagen
+comment1.target=void\ aplicar(ImagenOF)
+comment1.text=\r\n\ Recorre\ todos\ los\ pixeles\ de\ la\ imagen\ y\ los\ alisa.\r\n\ @param\ imagen\ es\ la\ imagen\ sobre\ la\ que\ se\ aplica\ el\ filtro.\r\n
+comment2.params=x\ y\ imagen
+comment2.target=java.awt.Color\ alisarColorMejor(int,\ int,\ ImagenOF)
+comment2.text=\r\n\ Devuelve\ un\ valor\ que\ es\ el\ promedio\ de\ todos\ los\ p\u00EDxeles\ de\ alrededor.\r\n\ @param\ x\ Es\ la\ coordenada\ x\ del\ pixel\ a\ alisar.\r\n\ @param\ y\ Es\ la\ coordenada\ y\ del\ pixel\ a\ alisar.\r\n\ @param\ imagen\ es\ la\ imagen\ sobre\ la\ que\ se\ aplica\ el\ filtro.\r\n
+numComments=3
